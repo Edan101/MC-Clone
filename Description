@@ -1,2 +1,6 @@
+⚠PLEASE NOTE: You will need to install LWJGL 2.9 (Lightweight Java Game Library 2.9) in order for this to work, you can
+download this online, it must be version 2.9. once you install it online, extract it to a folder, it MUST be named LWJGL
+2.9 for it to work. Once you have done this, you can refresh the project, go to start client, follow the instructions
+in the README, and it should work.⚠
 # MC-Clone-Test
-This is a project for a clone-like-game of Minecraft alpha and is still heavily in development.
+This is a project for a clone game of Minecraft and is still heavily in development.
